@@ -23,7 +23,6 @@ The goal of the challenge is to connect front end code to back end.
 # Video Walkthrough 
 
 
-https://github.com/yankamb444/Dynamic-README-Generator/assets/127771643/9e2e274f-2866-4c4f-81f3-e86e8c62b486
 
 
 
