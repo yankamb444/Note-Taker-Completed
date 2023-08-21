@@ -18,7 +18,9 @@ The goal of the challenge is to connect front end code to back end.
 13. THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 # Technologies Used/Needed 
- 1. Inquirer: https://www.npmjs.com/package/inquirer/v/8.2.4
+ 1. Express: https://www.npmjs.com/package/express
+ 2. Uniqid: https://www.npmjs.com/package/uniqid 
+ 3. Fs: https://www.npmjs.com/package/fs-extra 
 
 # Video Walkthrough 
 
@@ -32,7 +34,6 @@ https://github.com/yankamb444/Note-Taker-Completed/assets/127771643/cf311a93-8ff
 This challenge was created with the help of a tutor, starter code, and the resource(s) below.  
 
  1. Express Guide: https://expressjs.com/en/5x/api.html
- 2. License Badges: https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba 
 
 # License 
 Please refer to the license in the repo.

@@ -70,11 +70,6 @@ app.get("*", (req, res) => {
 
 
 app.post('/api/notes', (req, res) => {
-    //     let enteredNote = req.body.title;
-    //    console.log(typeof(enteredNote))
-    // let dbJsonNotes = JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
-    // enteredNote.id = unID();
-    // dbJsonNotes.push(enteredNote); 
     console.log(req.body);
     console.log("TRETRAEEGARGRAGAEGRHGERAHAERHGAEHAEHHDBBH");
     let typedNoted = genNewNote(req.body.title, req.body.text)
