@@ -24,6 +24,8 @@ The goal of the challenge is to connect front end code to back end.
 
 
 
+https://github.com/yankamb444/Note-Taker-Completed/assets/127771643/cf311a93-8ff8-4aad-8366-f819c0acb246
+
 
 
 # Resources Used
