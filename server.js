@@ -49,7 +49,7 @@ function genNewNote(title, text) {
             console.log(err)
             res.status(500).json({
                 err: "oh no"
-            })
+            }) 
         } else {
             console.log(enteredNote);
             res.json(dbJsonNotes);
@@ -85,6 +85,3 @@ app.post('/api/notes', (req, res) => {
 
 
 app.listen(port)
-// app.get('/api/terms', (req, res) => {
-//     console.log('example at http://localhost: ${PORT}')
-// })
